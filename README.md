@@ -13,3 +13,5 @@ Proyecto de marcador telefónico.
 
 ## Uso
 (instrucciones)
+
+git remote add origin https://github.com/drivalles/DIALER.git
